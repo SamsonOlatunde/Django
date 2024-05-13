@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d3a2f82-5d87-4da7-a35f-61f5a21a3d02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Django_Second.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/templates/home/authorised.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/templates/home/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/templates/jumia/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumia/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/templates/note/note.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartnotes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartnotes/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartnotes/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartnotes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartnotes/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2gNrKXL53G3RYCzDE0QArBMXzAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Django_Second" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d3a2f82-5d87-4da7-a35f-61f5a21a3d02" name="Changes" comment="" />
+      <created>1715548813088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715548813088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
